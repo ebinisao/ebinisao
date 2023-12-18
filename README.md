@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Expertise
+## Summary
 
 **DevOps Engineer with Expertise in Cloud Platforms:**
   - Proficient in deploying and managing infrastructure on AWS.
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   - Ensured consistent and secure configurations across multiple environments.
 
 **Programming Skills:**
-  - Strong programming skills in Python and Java.
+  - Programming skills in Python and Java.
   - Developed custom scripts and automation tools to enhance deployment and monitoring processes.
 
 ## Project Highlights
